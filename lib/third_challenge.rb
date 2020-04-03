@@ -11,9 +11,8 @@ a :status of "alive"},
       :hero_friends => []
    }, 
    :capulet => {
-      :patriarch => {
-        #your key/value pairs here
-        },
+      :patriarch => {:name of "Lord Capulet" and
+an :age of "50"},
       :matriarch => {
         #your key/value pairs here
         },
