@@ -6,7 +6,10 @@ def fourth_challenge
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [a name of "Benvolio",
 an age of "17", and
-an attitude of "worried".]
+an attitude of "worried".
+a name of "Mercutio",
+an age of "18", and
+an attitude of "hot-headed".]
    }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
