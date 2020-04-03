@@ -13,9 +13,8 @@ a :status of "alive"},
    :capulet => {
       :patriarch => {:name of "Lord Capulet" and
 an :age of "50"},
-      :matriarch => {
-        #your key/value pairs here
-        },
+      :matriarch => {:name of "Lady Capulet" and
+an :age of "51"},
       :heroine => {
         #your key/value pairs here
         },
